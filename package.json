@@ -1,0 +1,18 @@
+{
+  "name": "slenzy",
+  "version": "1.0.0",
+  "description": "Slenzy",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "bun src/app.js"
+  },
+  "author": "Slenzy",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "2",
+    "croxydb": "^0.0.24",
+    "discord.js": "^14.11.0",
+    "dotenv": "^16.3.1",
+    "fs": "^0.0.1-security"
+  }
+}
